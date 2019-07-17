@@ -1,6 +1,6 @@
-https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/0.7.0.4.NV713
-
 (*07.04 update 네버싱크 7.13) POE 3.7 Lootfilter - Deckard cain 4$ by DeadlyCrush ( 루트 필터 3.6 데커드케인 4딸라 )
+
+Last Release : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/0.7.0.4.NV713
 
 2019.07.04 >
 네버싱크 7.13 업데이트에 따라 필터를 재생성해서 업데이트 했습니다.
