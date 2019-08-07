@@ -21,7 +21,8 @@ https://cafe.naver.com/poekorea/313232
 
 ⁛ 다운로드 ⁛
 ▶ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/v090806nv720/DealyLegion_2019_0806_Nv720.zip
-▶
+▶https://cafe.naver.com/poekorea/313232
+
 ⁛ 상세 설명 및 자료글 ⁛
 ▶ https://cafe.naver.com/poekorea/313232
 
