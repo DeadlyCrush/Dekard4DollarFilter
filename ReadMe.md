@@ -1,3 +1,31 @@
+2019.08.07 네버싱크 7.2 대응 >
+
+출장 다녀와서 Deadly Trade 작업 내용 정리중에 휴식도 취할겸해서 ^^*~
+( Deadly Trade는 계획했던 내용 + 의견,제보주신 내용 중 우선순위를 정해서,
+조금 천천히 작업하고 있습니다. 너무 늦지 않게 업데이트를 올릴 예정입니다. )
+
+4딸라 필터를 네버싱크 7.2로 업데이트 했습니다.
+문서-My Games-Path Of Exile 폴더에 압축을 푼 폴더가 아닌 파일 전체를 복사해 넣으시면 됩니다.
+
+이번 7.2에 맞추면서 0~6단계별 차이가 조금 더 나도록 수정되었구요.
+각 단계별 세부 내용을 아래 설명글과 영상으로 찍어두었으니까 참고하시면 좋겠습니다.
+( 전체 내용은 이전 자료에서 가져와서 아래에 붙여놓았습니다. )
+
+[ 필터 상세 설명 ]
+
+https://youtu.be/Db_3e0Kld0Q
+
+[ 필터 개요 설명 ]
+
+https://cafe.naver.com/poekorea/313232
+
+⁛ 다운로드 ⁛
+▶ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/v090806nv720/DealyLegion_2019_0806_Nv720.zip
+▶
+⁛ 상세 설명 및 자료글 ⁛
+▶ https://cafe.naver.com/poekorea/313232
+
+
 (*07.04 update 네버싱크 7.13) POE 3.7 Lootfilter - Deckard cain 4$ by DeadlyCrush ( 루트 필터 3.6 데커드케인 4딸라 )
 
 Last Release : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/0.7.0.4.NV713
