@@ -1,3 +1,8 @@
+Latest Release 2019.12.16 Metamorph Leagu Based on Neversink 7.5 : 
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/1.0.3.9.2/DeadlyMorph_Deckard4S_191216.zip
+
+
+
 2019.08.07 네버싱크 7.2 대응 >
 
 출장 다녀와서 Deadly Trade 작업 내용 정리중에 휴식도 취할겸해서 ^^*~
