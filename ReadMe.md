@@ -1,5 +1,6 @@
-Latest Release 2019.12.16 Metamorph Leagu Based on Neversink 7.5 : 
-https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/1.0.3.9.2/DeadlyMorph_Deckard4S_191216.zip
+2019.12.22 >
+Latest Release 2019.12.22 Metamorph Leagu Based on Neversink 7.5 : 
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/2019.12.22.1/DeadlyDeckarMorph_Filter_2019_1222.zip
 
 
 
