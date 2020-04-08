@@ -7,7 +7,8 @@ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.10_Delirium_1s
 
 ## Contact
 
-Private ]
+### Private
+
 ○ Blog - https://deadlytrade.tistory.com/ https://blog.naver.com/eocsdev2 
 
 ○ Twitter - https://twitter.com/crush_deadly
@@ -19,19 +20,22 @@ Private ]
 ○ Discord - DeadlyCrush#7202
 
 
-Funny Project ]
+### Funny Project
+
 ○ GitHub - https://github.com/DeadlyCrush
 
 ○ Azure - https://dev.azure.com/DeadlyCrush/
 
 
-Media ]
+### Media
+
 ○ Twitch - https://www.twitch.tv/deadlycrush
 
 ○ Youtube - https://www.youtube.com/c/DeadlyCrush
 
 
-DeadlyTrade / Deadly KOR Team ]
+### DeadlyTrade / Deadly KOR Team
+
 ○ Discord - https://discord.gg/Gd7MjCz
 
 ○ Site - https://www.jumpleasure.me/deadlytrade
