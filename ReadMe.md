@@ -5,6 +5,7 @@
 ## Track, Follow Filter : 필터 추척 및 팔로우
 You can tracking here.
 ▶ GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
+
 ▶ DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters ㅠㅠ 
 
 Sound File 사운드 파일 다운로드 : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.10_Delirium_1st/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
