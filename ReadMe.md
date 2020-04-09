@@ -11,6 +11,20 @@ You can tracking here.
 
 ### Sound File 사운드 파일 다운로드 : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.10_Delirium_1st/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
 
+![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FXuYQT%2FbtqDkyYYWOH%2FdGdjI8SeaYTVK3F3EOnIFK%2Fimg.png)
+
+## Sample Images ( More detailed sample Ref. in-Game video clip above link. :) )
+
+![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FoErSV%2FbtqDkyEItdT%2FpIU1Kx3y70jynGPvB5cne1%2Fimg.png)
+
+![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FdlJSs2%2FbtqDkzjhQJy%2FNhilVi60BJbUfiNJaIQlE0%2Fimg.png)
+
+![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbRcdIY%2FbtqDia53BpX%2FKAgAGfHNVVJpL25H4EWjR1%2Fimg.png)
+
+![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FvFCFW%2FbtqDkzwQQbC%2FsKHGgqm8G0PRzdE0LS79GK%2Fimg.png)
+
+![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbBCKpH%2FbtqDg4LZ3vL%2FfAVcfKy9AsTGE2M470F9ck%2Fimg.png)
+
 ## Download (Full, Each Filter, Sound files)
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.10_Delirium_1st - 전체, 각 필터 파일, 사운드 파일들
 
