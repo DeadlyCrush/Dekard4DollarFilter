@@ -2,6 +2,10 @@
 ## POE 3.10 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink! ( 패스오브엑자일 네버싱크 루트 필터 3.10 )
 [![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA0MDhfMjkz/MDAxNTg2MzI1MDE2NjIy.ZQaMP7dRKbTMBcrr7IGTyg1VnkDrLRoATqHBA0S1aI8g.K9kehAa06biZLyCtTAGrUe6kAn3zYMSzIoH-BKs1Ipcg.JPEG.eocsdev2/Deadly_2020_0408_006.jpg?type=w773)](https://youtu.be/xuvF_PzsMwk)
 
+## ■ Track, Follow Filter : 필터 추척 및 팔로우
+You can tracking here.
+https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
+
 ## Download (Full, Each Filter, Sound files)
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.10_Delirium_1st - 전체, 각 필터 파일, 사운드 파일들
 
