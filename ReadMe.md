@@ -6,6 +6,8 @@
 You can tracking here.
 ▶ https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
 
+Sound File : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.10_Delirium_1st/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
+
 ## Download (Full, Each Filter, Sound files)
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.10_Delirium_1st - 전체, 각 필터 파일, 사운드 파일들
 
