@@ -1,5 +1,5 @@
 # DeadlyCrush Deckard Cain 4 dollars Filter Based on Neversink.
-## POE 3.10 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink! ( 패스오브엑자일 네버싱크 루트 필터 3.10 )
+## POE Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink! ( 패스오브엑자일 네버싱크 루트 필터 )
 [![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA0MDhfMjkz/MDAxNTg2MzI1MDE2NjIy.ZQaMP7dRKbTMBcrr7IGTyg1VnkDrLRoATqHBA0S1aI8g.K9kehAa06biZLyCtTAGrUe6kAn3zYMSzIoH-BKs1Ipcg.JPEG.eocsdev2/Deadly_2020_0408_006.jpg?type=w773)](https://youtu.be/xuvF_PzsMwk)
 
 ## Track, Follow Filter : 필터 추척 및 팔로우
@@ -9,7 +9,10 @@ You can tracking here.
 
 ### DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
 
-### Sound File 사운드 파일 다운로드 : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.10_Delirium_1st/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
+### Lastet Release (3.11 Harvest 수확 리그용)
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.11.neversink791
+
+### Sound File 사운드 파일 다운로드 : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.11.neversink791/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
 
 ![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FXuYQT%2FbtqDkyYYWOH%2FdGdjI8SeaYTVK3F3EOnIFK%2Fimg.png)
 
@@ -32,15 +35,17 @@ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.10_Delirium_1s
 
 ### Private
 
-○ Blog - https://deadlytrade.tistory.com/ https://blog.naver.com/eocsdev2 
-
 ○ Twitter - https://twitter.com/crush_deadly
+
+○ Discord - DeadlyCrush#7202
+
+○ KAKAO Open Talk - https://open.kakao.com/o/gylOSztb
+
+○ Blog - https://deadlytrade.tistory.com/ https://blog.naver.com/eocsdev2
 
 ○ Facebook - https://www.facebook.com/deadlycrush.kor
 
 ○ Reddit - https://www.reddit.com/user/DeadlyCrush
-
-○ Discord - DeadlyCrush#7202
 
 
 ### Funny Project
@@ -63,5 +68,4 @@ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.10_Delirium_1s
 
 ○ Site - https://www.jumpleasure.me/deadlytrade
 
-○ KAKAO Open Talk - https://open.kakao.com/o/gylOSztb
 
