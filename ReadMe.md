@@ -17,7 +17,7 @@ You can tracking here.
 ### Lastet Release (3.11 Harvest 수확 리그용)
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.11.neversink791
 
-### POE 3.11 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink ﻿7.9.1 Version.
+### POE 3.11 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.9.1 Version.
 
 You can tracking here.
 
@@ -40,7 +40,7 @@ you can download filter sound File at github.
 ### 시간 관계상? 스크린샷은 다음에 추가하겠습니다.
 
 ### Sound File 사운드 파일 다운로드 :
-https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.11.neversink791/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/DeadlyCrush.3.11.02/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
 
 ## Sample Images ( More detailed sample Ref. in-Game video clip above link. :) )
 
@@ -55,7 +55,9 @@ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.11.nevers
 ![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbBCKpH%2FbtqDg4LZ3vL%2FfAVcfKy9AsTGE2M470F9ck%2Fimg.png)
 
 ## Download (Full, Each Filter, Sound files)
-전체, 각 필터 파일, 사운드 파일들 - https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.11.neversink791
+
+Filter File : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/DeadlyCrush.3.11.02/Deadly_Harvest_2020_0630.zip
+전체, 각 필터 파일, 사운드 파일들 - https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/DeadlyCrush.3.11.02
 
 ## Contact
 
