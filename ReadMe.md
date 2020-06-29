@@ -15,7 +15,7 @@ You can tracking here.
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfNTYg/MDAxNTkyODg1OTQ5MTQ1.AJjK2GH-s4ScTWs6ApRt2EFl7dhnCpU_c9WzvYn42vAg.0dU1nyCHTYpSpcUQbww5wr3e5OFM5f6FLirEkQcEEdEg.PNG.eocsdev2/Deadly_2020_0623_005.png?type=w773)
 
 ### Lastet Release (3.11 Harvest 수확 리그용)
-https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.11.neversink791
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/DeadlyCrush.3.11.02
 
 ### POE 3.11 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.9.1 Version.
 
