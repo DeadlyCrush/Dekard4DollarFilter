@@ -17,6 +17,28 @@ You can tracking here.
 ### Lastet Release (3.11 Harvest 수확 리그용)
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/3.11.neversink791
 
+### POE 3.11 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink ﻿7.9.1 Version.
+
+You can tracking here.
+
+### GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
+### DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
+
+### 2020.06.30 00:22 업데이트
+### DeadlyCrush.3.11.02
+### DeadlyCrush Deckard Cain 4 dollars Filter Based on Neversink.
+https://github.com/DeadlyCrush : DeadlyTrade and ETC...
+you can download filter sound File at github.
+
+○ 저레벨 구간에서 플라스크가 더 잘 보이도록 수정
+○ 정복자 템을 구역별의 색상에 맞게 표시되도록 수정
+○ 명계의조임쇠는 아이템레벨 64이하라도 강조되도록 수정
+○ 일부 옵션이 좋을 수 있는 탈리스만이 보이도록 수정
+○ 아이템 필터 추척(팔로우)의 경우, 필터 수정이 있을 경우 버전 안내 (현재 : DeadlyCrush.3.11.02)
+○ 2020.06.30 00시 기준 각종 시세에 맞게 티어 정렬
+
+### 시간 관계상? 스크린샷은 다음에 추가하겠습니다.
+
 ### Sound File 사운드 파일 다운로드 :
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/3.11.neversink791/Deadly_Delirium_Deckard4dollar_SOUNDFILES.zip
 
