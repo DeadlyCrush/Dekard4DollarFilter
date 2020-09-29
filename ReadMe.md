@@ -14,17 +14,16 @@ You can tracking here.
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfMTYw/MDAxNTkyODg1OTQ5MTUx.5sZJeQMY7_tBrJ7dE8mGYwT7a47HSbu5v2l9sLlES3sg.ocsYL5fDjZB1RA615rIEs_P9sb6LS0WBGEWeiuGdMLAg.PNG.eocsdev2/Deadly_2020_0623_004.png?type=w773)
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfNTYg/MDAxNTkyODg1OTQ5MTQ1.AJjK2GH-s4ScTWs6ApRt2EFl7dhnCpU_c9WzvYn42vAg.0dU1nyCHTYpSpcUQbww5wr3e5OFM5f6FLirEkQcEEdEg.PNG.eocsdev2/Deadly_2020_0623_005.png?type=w773)
 
-### Lastet Release (3.11 Harvest 수확 리그용)
-https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/DeadlyCrush.3.11.02
+### Lastet Release
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases
 
-### POE 3.11 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.9.1 Version.
+### POE 3.12 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.10.3 Version.
 
 You can tracking here.
 
 ### GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
 ### DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
 
-### 2020.06.30 00:22 업데이트
 ### DeadlyCrush.3.11.02
 ### DeadlyCrush Deckard Cain 4 dollars Filter Based on Neversink.
 https://github.com/DeadlyCrush : DeadlyTrade and ETC...
