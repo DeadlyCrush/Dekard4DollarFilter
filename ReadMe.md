@@ -78,11 +78,6 @@ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/DeadlyCrush
 
 ![DeadlyFilter_Example](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fk.kakaocdn.net%2Fdn%2FbBCKpH%2FbtqDg4LZ3vL%2FfAVcfKy9AsTGE2M470F9ck%2Fimg.png)
 
-## Download (Full, Each Filter, Sound files)
-
-Filter File : https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/download/DeadlyCrush.3.11.02/Deadly_Harvest_2020_0630.zip
-전체, 각 필터 파일, 사운드 파일들 - https://github.com/DeadlyCrush/Dekard4DollarFilter/releases/tag/DeadlyCrush.3.11.02
-
 ## Contact
 
 ### Private
