@@ -5,24 +5,46 @@
 ## Track, Follow Filter : 필터 추척 및 팔로우
 You can tracking here.
 
-### GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
+GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
+DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
 
-### DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
+* Automatically reflect the updated filter if you follow above filter link. You need sound files at first time.
+or Extract the attachment in this post, and then copy all the files to My Games - Path Of Exile folder.
+
+### Lastet Release
+https://github.com/DeadlyCrush/Dekard4DollarFilter/releases
+
+## [ POE 3.12 강탈 Lootfilter - 데커드케인 4딸라! Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.10.3 Ver. ]
+
+![DeadlyFilter_Example](https://blog.naver.com/PostView.nhn?blogId=eocsdev2&Redirect=View&logNo=222104598754&categoryNo=25&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=34838#)
+
+1. 필터 팔로우
+
+1) 필터를 팔로우하시면 업데이트된 내용이 자동으로 반영됩니다.
+GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
+DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
+
+2) 이 때 유의하실 점은 기본 사운드가 아닌 커스텀 사운드를 사용하기 때문에 사운드 파일은,
+My Games - Path Of Exile 폴더에 들어가 있어야 합니다. 팔로우는 최초에 사운드 파일 한번만 받으시면 됩니다.
+
+3) 따라서, 필터를 팔로우 하시는 분들은 사운드의 변경이 없는한 한번만 사운드 압축파일을 다운받아서 압축을 푼 사운드 파일들을 My Games - Path Of Exile 폴더에 복사하시면 됩니다.
+
+2. 필터 다운로드
+
+1) 필터를 다운로드 받아서 수정하시거나 자동 업데이트를 받지 않고 사용하실 분들은,
+2) 필터 압축 파일과 사운드 압축 파일을 다운로드 받으시고 압축을 푼 필터 파일들(*.filter)과 사운드 파일들을
+3) My Games - Path Of Exile 폴더에 모두 넣으시면 됩니다.
+
+3. 필터의 사용
+
+1) 위의 팔로우 또는 다운로드를 통한 설정이 끝나셨으면,
+2) 게임 설정 - UI 부분 최하단에 있는 곳에서 필터를 단계에 맞게 선택하시면 됩니다.
+3) 0이 가장 많이 보여주는 저렙 단계이고 숫자가 높을 수록 적게 보여주는 고렙 단계입니다.
 
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfMjMx/MDAxNTkyODg1OTQ5MTQ3.z3eirRGTG79J2FcOCr_S8yykmdzPCb-mGek0sik8z1Ug.Y31wkHLWJDqKOusfrVUewiYRf2wOcuP7g-SP1dD02JIg.PNG.eocsdev2/Deadly_2020_0623_002.png?type=w773)
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfMTAw/MDAxNTkyODg1OTQ5MTQ4._kd8q1CvyQiXNEY5d-6hP6_yA2YQaUSr-LjvBueTthMg.GNbccVNdvkpeBxGf60J0DOoscmgAuSPcbH7hkw2kvKgg.PNG.eocsdev2/Deadly_2020_0623_003.png?type=w773)
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfMTYw/MDAxNTkyODg1OTQ5MTUx.5sZJeQMY7_tBrJ7dE8mGYwT7a47HSbu5v2l9sLlES3sg.ocsYL5fDjZB1RA615rIEs_P9sb6LS0WBGEWeiuGdMLAg.PNG.eocsdev2/Deadly_2020_0623_004.png?type=w773)
 ![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA2MjNfNTYg/MDAxNTkyODg1OTQ5MTQ1.AJjK2GH-s4ScTWs6ApRt2EFl7dhnCpU_c9WzvYn42vAg.0dU1nyCHTYpSpcUQbww5wr3e5OFM5f6FLirEkQcEEdEg.PNG.eocsdev2/Deadly_2020_0623_005.png?type=w773)
-
-### Lastet Release
-https://github.com/DeadlyCrush/Dekard4DollarFilter/releases
-
-### POE 3.12 Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.10.3 Version.
-
-You can tracking here.
-
-### GGG - https://www.pathofexile.com/account/view-profile/eocsdev/item-filters
-### DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
 
 ### DeadlyCrush.3.11.02
 ### DeadlyCrush Deckard Cain 4 dollars Filter Based on Neversink.
