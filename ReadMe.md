@@ -14,7 +14,7 @@ DAUM KAKAO - https://poe.game.daum.net/account/view-profile/eocsdev/item-filters
 * Automatically reflect the updated filter if you follow above filter link. You need sound files at first time.
 or Extract the attachment in this post, and then copy all the files to My Games - Path Of Exile folder.
 
-### Lastet Release
+## Lastet Release
 https://github.com/DeadlyCrush/Dekard4DollarFilter/releases
 
 ## [ POE 3.12 강탈 Lootfilter - 데커드케인 4딸라! Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.10.3 Ver. ]
