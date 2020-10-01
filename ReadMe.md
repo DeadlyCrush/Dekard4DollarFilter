@@ -1,4 +1,7 @@
 # DeadlyCrush Deckard Cain 4 dollars Filter Based on Neversink.
+
+## Current Version : POE 3.12 강탈 Lootfilter - 데커드케인 4딸라! Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.10.3 Ver.
+
 ## POE Lootfilter - Deckard cain 4$ by DeadlyCrush Based on NeverSink! ( 패스오브엑자일 네버싱크 루트 필터 )
 [![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDA0MDhfMjkz/MDAxNTg2MzI1MDE2NjIy.ZQaMP7dRKbTMBcrr7IGTyg1VnkDrLRoATqHBA0S1aI8g.K9kehAa06biZLyCtTAGrUe6kAn3zYMSzIoH-BKs1Ipcg.JPEG.eocsdev2/Deadly_2020_0408_006.jpg?type=w773)](https://youtu.be/xuvF_PzsMwk)
 
@@ -16,7 +19,7 @@ https://github.com/DeadlyCrush/Dekard4DollarFilter/releases
 
 ## [ POE 3.12 강탈 Lootfilter - 데커드케인 4딸라! Deckard cain 4$ by DeadlyCrush Based on NeverSink 7.10.3 Ver. ]
 
-![DeadlyFilter_Example](https://blog.naver.com/PostView.nhn?blogId=eocsdev2&Redirect=View&logNo=222104598754&categoryNo=25&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=34838#)
+![DeadlyFilter_Example](https://postfiles.pstatic.net/MjAyMDEwMDFfMTkz/MDAxNjAxNTU4MTcwMTE3.dgoJ-bChPywA5SC18HAxLguzaC4oP9da4GtI-mLG7Scg.k3xdQdkTft3Z5Wa9z2mMYwOatFLAD3mhKHycRg3nE18g.PNG.eocsdev2/Deadly_2020_1001_001.png?type=w773)
 
 1. 필터 팔로우
 
